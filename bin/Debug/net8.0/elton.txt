@@ -1,0 +1,24 @@
+------Transaction History-----
+Name: Elton 
+Sales: 78049
+Commission: 1 
+Commission Due: 78049 
+Tax: 11707.35 
+After Tax Amount: 66341.65
+
+------Transaction History-----
+Name: fjhhjf 
+Sales: 23897
+Commission: 1 
+Commission Due: 23897 
+Tax: 3584.5499999999997 
+After Tax Amount: 20312.45
+
+------Transaction History-----
+Name: ghhgf 
+Sales: 567889
+Commission: 1 
+Commission Due: 567889 
+Tax: 85183.34999999999 
+After Tax Amount: 482705.65
+

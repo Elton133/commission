@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Comission\Comission\bin\Debug\net8.0\Comission.exe
+C:\Users\USER\source\repos\Comission\Comission\bin\Debug\net8.0\Comission.deps.json
+C:\Users\USER\source\repos\Comission\Comission\bin\Debug\net8.0\Comission.runtimeconfig.json
+C:\Users\USER\source\repos\Comission\Comission\bin\Debug\net8.0\Comission.dll
+C:\Users\USER\source\repos\Comission\Comission\bin\Debug\net8.0\Comission.pdb
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\Comission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\Comission.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\Comission.AssemblyInfo.cs
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\Comission.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\Comission.dll
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\refint\Comission.dll
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\Comission.pdb
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\Comission.genruntimeconfig.cache
+C:\Users\USER\source\repos\Comission\Comission\obj\Debug\net8.0\ref\Comission.dll

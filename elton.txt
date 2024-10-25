@@ -1,0 +1,40 @@
+------Transaction History-----
+Name: jhjhfh 
+Sales: 56789
+Commission: 1 
+Commission Due: 56789 
+Tax: 8518.35 
+After Tax Amount: 48270.65
+
+------Transaction History-----
+Name: Morden Elton 
+Sales: 29886
+Commission: 1 
+Commission Due: 29886 
+Tax: 4482.9 
+After Tax Amount: 25403.1
+
+------Transaction History-----
+Name: Morden 
+Sales: 38347
+Commission: 1 
+Commission Due: 38347 
+Tax: 5752.05 
+After Tax Amount: 32594.95
+
+------Transaction History-----
+Name: Mods 
+Sales: 374748
+Commission: 1 
+Commission Due: 374748 
+Tax: 56212.2 
+After Tax Amount: 318535.8
+
+------Transaction History-----
+Name: Morden Elton 
+Sales: 35678
+Commission: 1 
+Commission Due: 35678 
+Tax: 5351.7 
+After Tax Amount: 30326.3
+
